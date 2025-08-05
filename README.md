@@ -4,6 +4,15 @@
 - 📫 Contact me at emai: tiagosimaorodri123@gmail.com
 - ⚡ Studying Systems Analysis and Development
 
+### 🔥 Projetos em Destaque
+- [API Clínica Médica](https://github.com/TiagoSimaodev/API-Clinica-Medica)
+- 
+- [Gerenciamento de usuário api Spring rest](https://github.com/TiagoSimaodev/Gerenciamento-de-Usuario-API-REST-Spring-Boot-Maven-PostgreSQL)
+- 
+- [CRUD com Spring Data JPA](https://github.com/TiagoSimaodev/crud-consultas-spring-data-jpa)
+- 
+- [Sistema-de-Cadastro-com-Spring-Boot-Thymeleaf-e-Spring-Security](https://github.com/TiagoSimaodev/Sistema-de-Cadastro-com-Spring-Boot-Thymeleaf-e-Spring-Security)
+
 <div> 
  
   <a href = "mailtoto:tiagosimaorodri123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
