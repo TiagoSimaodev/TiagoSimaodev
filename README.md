@@ -1,5 +1,5 @@
 ### Hello! I'm Tiago Simao 👋
-- 🔭 Back end developer
+- 🔭 Backend developer
 - 🌱 Studying Java
 - 📫 Contact me at emai: tiagosimaorodri123@gmail.com
 - ⚡ Studying Systems Analysis and Development
