@@ -5,6 +5,11 @@
 - ⚡ Studying Systems Analysis and Development
 
 ### 🔥 Projetos em Destaque
+
+- [Loja Virtual](https://github.com/TiagoSimaodev/loja_virtual-)
+
+- 
+
 - [API Clínica Médica](https://github.com/TiagoSimaodev/API-Clinica-Medica)
 - 
 - [Gerenciamento de usuário api Spring rest](https://github.com/TiagoSimaodev/Gerenciamento-de-Usuario-API-REST-Spring-Boot-Maven-PostgreSQL)
