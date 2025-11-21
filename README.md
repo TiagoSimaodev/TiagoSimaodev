@@ -1,7 +1,7 @@
 ### Hello! I'm Tiago Simao 👋
-- 🔭 Backend developer
+- 🔭 Software Developer
 - 🌱 Studying Java
-- 📫 Contact me at emai: tiagosimaorodri123@gmail.com
+- 📫 Contact me at emai: tiagosimao.dev@gmail.com
 - ⚡ Studying Systems Analysis and Development
 
 ### 🔥 Projetos em Destaque
