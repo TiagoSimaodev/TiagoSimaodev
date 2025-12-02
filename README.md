@@ -4,19 +4,7 @@
 - 📫 Contact me at emai: tiagosimao.dev@gmail.com
 - ⚡ Studying Systems Analysis and Development
 
-### 🔥 Projetos em Destaque
-
-- [Loja Virtual](https://github.com/TiagoSimaodev/loja_virtual-)
-
-- 
-
-- [API Clínica Médica](https://github.com/TiagoSimaodev/API-Clinica-Medica)
-- 
-- [Gerenciamento de usuário api Spring rest](https://github.com/TiagoSimaodev/Gerenciamento-de-Usuario-API-REST-Spring-Boot-Maven-PostgreSQL)
-- 
-- [CRUD com Spring Data JPA](https://github.com/TiagoSimaodev/crud-consultas-spring-data-jpa)
-- 
-- [Sistema-de-Cadastro-com-Spring-Boot-Thymeleaf-e-Spring-Security](https://github.com/TiagoSimaodev/Sistema-de-Cadastro-com-Spring-Boot-Thymeleaf-e-Spring-Security)
+https://camo.githubusercontent.com/44dbb6764c06f55bb9f6ea9bf9c5c9276828e1ce94b0a499d9ea4b727da969b5/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6a6f616f6564736f6e2d64616e746173267468656d653d6461726b26686964655f626f726465723d66616c7365
 
 <div> 
  
