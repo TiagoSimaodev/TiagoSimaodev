@@ -6,6 +6,8 @@
 
 
 
+
+
 <div> 
  
   <a href = "mailtoto:tiagosimaorodri123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
@@ -14,10 +16,6 @@
 </div>
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoSimaodev&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSimaodev&hide_progress=true)
 
  Technical Skills 🚀
 
