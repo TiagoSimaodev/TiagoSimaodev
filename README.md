@@ -19,7 +19,7 @@
 
  📦 Version Code Control: Git & Github
 
- 🛠️ Tools: Docker, Rabbitmq, Jasper Reports, JPA, Junit5, SQL, PLsql, 
+ 🔭 Tools: Docker, Rabbitmq, Jasper Reports, JPA, Junit5, SQL, PLsql, 
 
  🛠️ DevOps: Aws, ec2,s3,  heroku 
 
