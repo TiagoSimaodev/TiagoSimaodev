@@ -23,13 +23,3 @@
 
  🛠️ DevOps: Aws, ec2,s3,  heroku 
 
-
-
-Tools:
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="Tiago-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"">
-    <img align="center" alt="Tiago-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"">
-
-</div>
-
