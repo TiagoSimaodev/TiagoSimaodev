@@ -11,46 +11,19 @@
   
 </div>
 
-💻 Main laguage: Java
+ 💻 Main laguage: Java
 
-📡 Backend: Java, Spring boot, PostgreSQL,Mysql
+ 📡 Backend: Java, Spring boot, PostgreSQL, Mysql
 
-⚡ Frontend: Angular, Bootstrap, Jsp, thymeleaf HTML5, CSS3, JavaScript, TypeScript
+ ⚡ Frontend: Angular, Bootstrap, Jsp, thymeleaf, HTML5, CSS3, JavaScript, TypeScript
 
-📦 Version Code Control: Git & Github
+ 📦 Version Code Control: Git & Github
 
-🛠️ Tools: Docker, Rabbitmq, Jasper Reports, JPA, Junit5, SQL, PLsql, 
+ 🛠️ Tools: Docker, Rabbitmq, Jasper Reports, JPA, Junit5, SQL, PLsql, 
 
-🛠️ DevOps: Aws, ec2,s3,  heroku 
-
-
-
- Technical Skills 🚀
+ 🛠️ DevOps: Aws, ec2,s3,  heroku 
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Tiago-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"">
-  <img align="center" alt="Tiago-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"">
-  <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tiago-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-</div>
-
-
-##
-
-
-
-DevOps:
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="Tiago-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"">
-    <img align="center" alt="Tiago-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"">
-
-</div>
-
-##
 
 Tools:
 
