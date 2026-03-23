@@ -1,4 +1,4 @@
-# Olá, pessoal! Eu sou Francisco Tiago Simão ✌️
+# Olá, pessoal! Eu sou  Tiago Simao 
 💻 Desenvolvedor Java Full Stack | Especialista em Backend
 
 [LinkedIn](https://www.linkedin.com/in/tiago-simao-685015193/) | [Portfolio GitHub](https://github.com/TiagoSimaodev)
@@ -55,7 +55,7 @@ Valorizo **mentoria, código limpo e colaboração**, garantindo que os projetos
 ---
 
 ## Contato
-📫 [tiagosimaorodri123@gmail.com](mailto:tiagosimaorodri123@gmail.com)  
-📞 (85) 98878-4924  
+📫 [tiagosimao.dev@gmail.com](mailto:tiagosimao.dev@gmail.com)  
+ 
 
 ---
