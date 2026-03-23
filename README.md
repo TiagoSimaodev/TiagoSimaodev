@@ -6,12 +6,14 @@
 ---
 
 ## Sobre mim
-Sou Desenvolvedor Java Full Stack com **3+ anos de experiência** em aplicações web escaláveis, seguras e de alta qualidade. Tenho experiência sólida em:
+Sou Francisco Tiago, Desenvolvedor Java Full Stack com **3+ anos de experiência** no desenvolvimento de aplicações web escaláveis, seguras e de alta qualidade.
+Tenho experiência sólida em Java, Spring Boot, JPA/Hibernate, Spring Security, APIs REST, Angular, Thymeleaf e PostgreSQL, além de conhecimentos em microserviços, JWT e deploy em nuvem.
 
-- **Backend:** Java, Spring Boot, JPA/Hibernate, Spring Security, APIs REST, microsserviços, JWT  
+
+- **Backend:** Java, Spring Boot, JPA/Hibernate, Spring Security, APIs REST, microsserviços, JWT,RabbitMQ  
 - **Frontend:** Angular, Thymeleaf, Bootstrap, JavaScript, TypeScript  
-- **Banco de Dados:** PostgreSQL, MySQL, H2  
-- **DevOps & Cloud:** AWS, Heroku, GitHub Actions, Docker (conhecimento)  
+- **Banco de Dados:** PostgreSQL, MySQL, SQLServer, H2  
+- **DevOps & Cloud:** AWS, Heroku, Docker
 - **Arquitetura e Padrões:** Clean Architecture, DDD, CQRS, Event-Driven Design  
 
 Ao longo da carreira, construí projetos em **e-commerce, fintech e educação**, entregando soluções **robustas, manuteníveis e prontas para produção**.
