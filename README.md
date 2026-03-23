@@ -1,25 +1,59 @@
-### Hello! I'm Tiago Simao 👋
-- 🔭 Software Developer
-- 🌱 Studying Java
-- 📫 Contact me at emai: tiagosimao.dev@gmail.com
-- ⚡ Studying Systems Analysis and Development
+# Olá, pessoal! Eu sou Francisco Tiago Simão ✌️
+💻 Desenvolvedor Java Full Stack | Especialista em Backend
 
-<div> 
- 
-  <a href = "mailtoto:tiagosimaorodri123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiago-simao-685015193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+[LinkedIn](https://www.linkedin.com/in/tiago-simao-685015193/) | [Portfolio GitHub](https://github.com/TiagoSimaodev)
 
- 💻 Main laguage: Java
+---
 
- 📡 Backend: Java, Spring boot, PostgreSQL, Mysql
+## Sobre mim
+Sou Desenvolvedor Java Full Stack com **3+ anos de experiência** em aplicações web escaláveis, seguras e de alta qualidade. Tenho experiência sólida em:
 
- ⚡ Frontend: Angular, Bootstrap, Jsp, thymeleaf, HTML5, CSS3, JavaScript, TypeScript
+- **Backend:** Java, Spring Boot, JPA/Hibernate, Spring Security, APIs REST, microsserviços, JWT  
+- **Frontend:** Angular, Thymeleaf, Bootstrap, JavaScript, TypeScript  
+- **Banco de Dados:** PostgreSQL, MySQL, H2  
+- **DevOps & Cloud:** AWS, Heroku, GitHub Actions, Docker (conhecimento)  
+- **Arquitetura e Padrões:** Clean Architecture, DDD, CQRS, Event-Driven Design  
 
- 📦 Version Code Control: Git & Github
+Ao longo da carreira, construí projetos em **e-commerce, fintech e educação**, entregando soluções **robustas, manuteníveis e prontas para produção**.
 
- 🔭 Tools: Docker, Rabbitmq, Jasper Reports, JPA, Junit5, SQL, PLsql, 
+---
 
- 🛠️ DevOps: Aws, ec2,s3,  heroku 
+## Principais conquistas
+- Desenvolvi uma **API de Pagamentos** com Spring Boot, JWT e microsserviços, pronta para produção  
+- Construi **plataformas de e-commerce completas** com Spring Boot, Angular, Thymeleaf e PostgreSQL  
+- Implementei **arquitetura de microserviços** para sistemas de processamento de tarefas e notificações, aumentando escalabilidade e resiliência  
+- Otimizei **performance de backend**, reduzindo tempo de resposta de APIs em até 75%  
+- Entreguei **projetos de ponta a ponta**, com deploy em AWS e Heroku e pipelines de CI/CD  
 
+---
+
+## Projetos em destaque
+- **[API de Pagamentos](https://github.com/TiagoSimaodev/api-pagamentos)** – API RESTful com Spring Boot, JWT e microsserviços  
+- **[Sistema de Cadastro com Spring Boot, Thymeleaf e Spring Security](https://github.com/TiagoSimaodev/Sistema-de-Cadastro-com-Spring-Boot-Thymeleaf-e-Spring-Security)** – Aplicação web completa com autenticação, upload de arquivos e relatórios com JasperReports  
+- **[E-commerce Loja de Doces / Loja Virtual](https://github.com/TiagoSimaodev/E-commerce-Loja-virtual-)** – Plataformas com checkout, integração com gateways de pagamento e envio de e-mails  
+- **[Code Challenger Uber](https://github.com/TiagoSimaodev/Code-Challenger-Uber)** – Backend Java + Spring Boot com Clean Architecture, desenvolvido como desafio técnico  
+- **[AWS-SpringBoot-API & Product App Angular AWS](https://github.com/TiagoSimaodev/product-app-angular-aws)** – CRUD de produtos integrado com Angular e deploy em AWS  
+
+> Outros projetos incluem: API de Pedidos, Notifica-o Service, Microservice Processador, PicPay Simplificado, Dashboard Gráfico Full Stack, Voll.med API e muitos mais.
+
+---
+
+## Trabalhando comigo
+Sou descrito pelos colegas como: **engenheiro focado em qualidade, rápido aprendizado, solucionador de problemas e excelente jogador de equipe**.  
+Valorizo **mentoria, código limpo e colaboração**, garantindo que os projetos sejam entregues com excelência.
+
+---
+
+## Foco
+- **Backend:** APIs REST, microserviços, Spring Boot, Spring Security, JPA/Hibernate  
+- **Frontend:** Angular, Thymeleaf, Bootstrap, JavaScript, TypeScript  
+- **Cloud & DevOps:** AWS, Heroku, GitHub Actions, Docker  
+- **Arquitetura & Design:** Clean Architecture, DDD, CQRS, Event-Driven Design  
+
+---
+
+## Contato
+📫 [tiagosimaorodri123@gmail.com](mailto:tiagosimaorodri123@gmail.com)  
+📞 (85) 98878-4924  
+
+---
