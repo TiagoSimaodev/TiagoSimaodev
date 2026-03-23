@@ -1,7 +1,7 @@
 # Olá, pessoal! Eu sou  Tiago Simao 
 💻 Desenvolvedor Java Full Stack | Especialista em Backend
 
-[LinkedIn](https://www.linkedin.com/in/tiago-simao-685015193/) | [Portfolio GitHub](https://github.com/TiagoSimaodev)
+[LinkedIn](https://www.linkedin.com/in/tiagosimaodev/) | [web Site](https://tiagosimaodev.github.io/postofolio-atualizado/)
 
 ---
 
