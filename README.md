@@ -30,6 +30,7 @@ Ao longo da carreira, construí projetos em **e-commerce, fintech e educação**
 ---
 
 ## Projetos em destaque
+- **[Loja virtual](https://github.com/TiagoSimaodev/loja_virtual-)** – API REST desenvolvida em Java com Spring Boot, simulando um ambiente real de mercado, desde o levantamento de requisitos até a implementação de regras de negócio  
 - **[API de Pagamentos](https://github.com/TiagoSimaodev/api-pagamentos)** – API RESTful com Spring Boot, JWT e microsserviços  
 - **[Sistema de Cadastro com Spring Boot, Thymeleaf e Spring Security](https://github.com/TiagoSimaodev/Sistema-de-Cadastro-com-Spring-Boot-Thymeleaf-e-Spring-Security)** – Aplicação web completa com autenticação, upload de arquivos e relatórios com JasperReports  
 - **[E-commerce Loja de Doces / Loja Virtual](https://github.com/TiagoSimaodev/E-commerce-Loja-virtual-)** – Plataformas com checkout, integração com gateways de pagamento e envio de e-mails  
