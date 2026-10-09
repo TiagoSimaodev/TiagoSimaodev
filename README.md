@@ -6,7 +6,7 @@
 
 Sou Tiago Simão, profissional de tecnologia com foco em **Análise de Dados, qualidade de dados e automação de processos**, combinando experiência operacional com conhecimentos em programação e desenvolvimento de software.
 
-Atualmente, trabalho na Almaviva Experience no Projeto **Keeta (Meituan)** com operações de dados de cardápios, atuando em processos de Menu Entry e Menu Review, validação de informações, identificação de inconsistências e estruturação de dados.
+Atualmente, trabalho na **Almaviva Experience** no Projeto **Keeta (Meituan)** com operações de dados de cardápios, atuando em processos de Menu Entry e Menu Review, validação de informações, identificação de inconsistências e estruturação de dados.
 
 Também desenvolvo ferramentas internas com **JavaScript, HTML e CSS** para automatizar tarefas, extrair informações de páginas e organizar dados, buscando reduzir atividades manuais e melhorar a eficiência operacional.
 
@@ -75,7 +75,7 @@ Valorizo a qualidade dos dados, código organizado, aprendizado contínuo e cola
 
 ## Foco profissional
 
-Busco oportunidades como **Analista de Dados Júnior**, com interesse em SQL, Excel, Python, Power BI, qualidade de dados e automação. Também considero oportunidades que conectem análise de dados, desenvolvimento de sistemas e melhoria de processos.
+Busco oportunidades como **Analista de Dados**, com interesse em SQL, Excel, Python, Power BI, qualidade de dados e automação. Também considero oportunidades que conectem análise de dados, desenvolvimento de sistemas e melhoria de processos.
 
 ## Contato
 
