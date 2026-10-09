@@ -25,7 +25,7 @@ Meu objetivo é utilizar **dados, programação e automação** para solucionar 
 
 ## Experiência profissional
 
-**Operações de Dados | Keeta (Meituan)**
+**Analista de dados |Almaviva - Keeta (Meituan)**
 
 Atuação em processos de cadastro, revisão e validação de dados de cardápios, com foco na consistência das informações, identificação de problemas e melhoria dos fluxos operacionais.
 
